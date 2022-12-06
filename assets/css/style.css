@@ -4,3 +4,16 @@ body{
     background-color: black;
     color: #fff;
 }
+.card-img-top{
+    aspect-ratio: 5/4;
+}
+.footer-wrap{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-black{
+    background-color: black;
+    opacity: 0.9;
+    color: white;
+}
